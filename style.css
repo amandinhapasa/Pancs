@@ -1,0 +1,28 @@
+.cabecalho-imagem {
+width: 100%; 
+height: 550px; 
+text-align: center;}
+
+.Plantas-titulo{
+    text-align: center; 
+    font-size: 35px; 
+    color: #000000;
+    border: 10px solid #6fff00;
+     height: 60px; 
+     padding: 10px;}
+
+p{ text-align: justify;
+     font-size: 20px; }
+
+body{
+    background-color: #c1ffa0;}
+
+ .cabecalho-lista{ 
+    color: #000000;
+ }
+
+ .Plantas-div{
+padding:5px;
+padding-right: 5px;
+
+ }
